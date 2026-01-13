@@ -1,7 +1,9 @@
 # Smart Environment Temperature & Light Monitoring System – Arduino Project
 
 ## Overview
-This project demonstrates a smart environment monitoring system using Arduino. A DHT11 temperature sensor monitors ambient temperature, while a photoresistor measures light intensity. The system activates visual and audio alerts when temperature exceeds a defined threshold and automatically controls an LED based on ambient light levels.
+This project is about a smart environment system using Arduino.
+I used a DHT11 temperature sensor to check the temperature and a photoresistor (LDR) to measure light.
+The system alerts with LED and buzzer when temperature is too high and automatically controls the LED based on the light level.
 
 ## Objective
 - Learn how to interface a DHT11 temperature sensor with Arduino
